@@ -6,7 +6,7 @@ Info:
 - All Servers: https://teamwork.tf/community/provider/kingotf
 - Full list of changes: https://ktbm.kingo.tf/changes/
 - Full list of changes [Mobile]: https://ktbm.kingo.tf/changes/ingame/
-- PvP server [Frankfurt]: steam://connect/ktbmfrank1.kingo.tf:27017/
+- PvP server [Bavaria]: steam://connect/by-1.de.kingo.tf:27017
 - PvP server [Chicago]: steam://connect/149.28.113.177:27015
 - Demo storage: https://demo.kingo.tf/
 - Stats: https://stats.kingo.tf/hlstats.php
