@@ -26,4 +26,4 @@ If applicable, add screenshots to help explain your problem.
 **If applicable Demo (Server SourceTV demo Timestamp for example) or Video footage of the bug happening**
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the problem here, like which server this happened on.
