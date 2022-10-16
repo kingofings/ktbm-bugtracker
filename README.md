@@ -10,7 +10,6 @@ Info:
 - PvP server [Chicago]: steam://connect/chi-1.us.kingo.tf:27015
 - MvM server [Frankfurt]: steam://connect/fra-2.de.kingo.tf:27035
 - Demo storage: https://demo.kingo.tf/
-- Stats: https://stats.kingo.tf/hlstats.php
 - Discord: https://discord.kingo.tf
 - Steam group: https://steamcommunity.com/groups/kingotf2
 - King: http://steamcommunity.com/profiles/76561198084783019
