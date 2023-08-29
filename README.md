@@ -6,7 +6,7 @@ Info:
 - All Servers: https://teamwork.tf/community/provider/kingotf
 - Full list of changes: https://ktbm.kingo.tf/archive/
 - Full list of changes [Mobile]: https://ktbm.kingo.tf/archive/ingame/
-- Server IP: SoonTM
+- Server IP: fra-4.de.kingo.tf
 - Demo storage: Discord Demo Bot
 - Discord: https://discord.kingo.tf
 - Steam group: https://steamcommunity.com/groups/kingotf2
